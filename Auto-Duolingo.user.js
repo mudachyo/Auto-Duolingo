@@ -2,7 +2,7 @@
 // @name         Auto-Duolingo
 // @version      2.0.6
 // @author       mudachyo (https://github.com/mudachyo)
-// @namespace    http://tampermonkey.net/
+// @namespace    Violentmonkey Scripts
 // @description  Script for automating training on Duolingo
 // @match        https://*.duolingo.com/*
 // @grant        none
