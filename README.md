@@ -1,7 +1,6 @@
 ### Languages
 [![Russian README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/ru.png)](README.md) [![English README](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/us.png)](/translations/readme_en.md)
 
-
 ## Описание
 Auto-Duolingo - это скрипт для автоматизации обучения на платформе Duolingo. Он помогает пользователям автоматически решать упражнения, проходить истории, зарабатывать очки опыта и поддерживать свой рейтинг в Duolingo.
 
@@ -23,6 +22,11 @@ Auto-Duolingo - это скрипт для автоматизации обуче
 
 - **Темный режим**: Включает темный режим на сайте Duolingo.
 
+### Поставьте проекту звёздочку ⭐
+Самый простой способ поддержки - поставить проекту звезду на GitHub:
+
+![Поставьте звезду](/assets/star.gif)
+
 ## Установка
 
 1. Установите расширение _[Violentmonkey](https://violentmonkey.github.io/get-it/)_ для вашего браузера (Chrome, Firefox, Opera, etc.)
@@ -34,6 +38,5 @@ Auto-Duolingo - это скрипт для автоматизации обуче
 - **Discord**: kotanoff
     
 ## Лицензия
-
 - **[MIT](https://raw.githubusercontent.com/mudachyo/Auto-Duolingo/main/LICENSE/)**
 

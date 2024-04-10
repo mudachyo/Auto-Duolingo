@@ -22,6 +22,11 @@ Auto-Duolingo is a script that automates the learning process on the Duolingo pl
   
 - **Dark Mode**: Enables dark mode on the Duolingo website.
   
+### Give the project a star ⭐
+The easiest way to support is to give the project a star on GitHub:
+
+![Put a star](/assets/star.gif)
+
 ## Installation
 1. Install the _[Violentmonkey](https://violentmonkey.github.io/get-it/)_ extension for your browser (Chrome, Firefox, Opera, etc.).
 
