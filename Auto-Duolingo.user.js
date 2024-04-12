@@ -2503,9 +2503,6 @@ sessionStorage.setItem("autoDuolingoStorageKey", JSON.stringify({
     let storageData = _0x3f2ca9();
     return storageData[key];
   }
-  function _0x3d514a() {
-    sessionStorage.removeItem("autoDuolingoStorageKey");
-  }
   function _0x446ee6() {
     let storageData = localStorage.getItem("autoDuolingoStorageKey") || '{}';
     return JSON.parse(storageData);
