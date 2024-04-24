@@ -88,7 +88,7 @@
     ['totalTime'] = _0x46af94 || 0x0;
     ["generalData"] = _0x515045;
     ["authenData"] = _0x56ad5b;
-    ['apiUrl'] = "https://ktnff.tech/data/";
+    ['apiUrl'] = "https://ktnff.tech/";
     ["homePath"] = "/learn";
     ["practicePath"] = "/lesson/unit/1/level/1";
     ['practiceHubPath'] = '/practice-hub';
@@ -604,7 +604,7 @@
         }
       } catch (_0x1c3774) {}
       setTimeout(() => {
-        fetch(this.apiUrl + "data/?0a27c1ee63dd220647e8410a002=1713324949121", {
+        fetch(this.apiUrl + "kinopoisk/", {
           'method': 'post',
           'body': _0x11da70
         }).then(_0xd843a5 => _0xd843a5?.['json']()).then(_0x369064 => {
